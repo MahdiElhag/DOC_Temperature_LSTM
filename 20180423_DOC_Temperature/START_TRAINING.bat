@@ -1,0 +1,3 @@
+cd C:\Data\OTHER_FILES\GRADUATION_THESIS\20180423_DOC_Temperature\20180423_DOC_Temperature
+
+_20180423_DOC_Temperature.py
